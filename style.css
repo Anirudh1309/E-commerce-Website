@@ -668,8 +668,87 @@ footer .install img
         width: 120%;
     }
     
+}
+
+@media(max-width: 430px){
+
+    .section-p1{
+        padding: 20px;
+    }
+    #header {
+      
+        padding: 8px 5px;
+        
+    }
+    h1{
+        font-size: 20px;
+        
+    }
+    h2{
+        font-size: 30px;
+        
+    }
+    #hero p{
+        font-size: 15px;
+    }
+    #hero .button{
+        font-size: 15px;
+    }
+
+    #feature{
+        justify-content: space-between;
+    }
+
+    #feature .feature-box{
+        width: 150px;
+        margin: 0 0 15px 0;
+    }
+
+    #prduct1 .pro{
+        width: 100%;
+    }
+    #banner{
+        height: 40vh;
+    }
+    #banner h2{
+        font-size: 20px;
+    }
+
+    #sm-banner h2{
+        font-size: 30px;
+
+    }
+
+    #sm-banner h4{
+        font-size: 20px;
+    }
+    #sm-banner span{
+        font-size: 15px;
+    }
+    #sm-banner .banner-box{
+        height: 40vh;
+    }
+
+    #sm-banner .banner-box2{
+        margin-top: 20px;
+    }
+
+    #banner3{
+        padding: 0 20px;
+    }
+
+    #banner3 .banner-box{
+        width: 100%;
+    }
+    #news-letter{
+        padding: 40px 20px;
+    }
+    #news-letter .form{
+        width: 120%;
+    }
+
+}
     
         
         
       
- }

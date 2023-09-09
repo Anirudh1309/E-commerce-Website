@@ -555,7 +555,7 @@ footer .install img
 
 
  /*media Query*/
- @media(max-width:915px)
+ @media(max-width:1056px)
  {
     #header{
         width: 120%;

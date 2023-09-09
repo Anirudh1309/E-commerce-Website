@@ -555,7 +555,7 @@ footer .install img
 
 
  /*media Query*/
- @media(max-width:1056px)
+ @media(max-width:915px)
  {
     #header{
         width: 120%;
@@ -670,7 +670,7 @@ footer .install img
     
 }
 
-@media(max-width: 700px){
+@media(max-width: 450px){
 
     .section-p1{
         padding: 20px;
